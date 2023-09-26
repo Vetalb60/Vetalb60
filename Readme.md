@@ -18,7 +18,7 @@ I'm a backend software developer:
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-link-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexey-derevyankin-644673230/)
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=Vetalb60)
+![Visitor Count](https://profile-counter.glitch.me/Vetalb60/count.svg)
 ----------
 
 ### :hammer_and_wrench: Languages and Tools :
